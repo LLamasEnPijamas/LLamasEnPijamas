@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LLamasEnPijamas or Jhoeel Luna
+- 👀 I’m interested in Data Science in Economics
+- 🌱 I’m currently learning Data Science
